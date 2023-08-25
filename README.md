@@ -1,10 +1,9 @@
 # My Year_Goals
 
+## The App enable user to set goals for the year and mark archived The Packages used includes
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+- hive : for local storage to ensure persistence 
+- hive_flutter
 
 A few resources to get you started if this is your first Flutter project:
 
